@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQListColdWeather", "LINQListColdWeather\LINQListColdWeather.csproj", "{B6CC75A4-9938-4169-B19A-78C7DA71AA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CC75A4-9938-4169-B19A-78C7DA71AA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CC75A4-9938-4169-B19A-78C7DA71AA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CC75A4-9938-4169-B19A-78C7DA71AA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CC75A4-9938-4169-B19A-78C7DA71AA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B73B78-2A96-4BDB-B602-AD740E0B108B}
+	EndGlobalSection
+EndGlobal
